@@ -46,4 +46,4 @@ import { createReadStream, createWriteStream } from 'fs';
     } catch (error) {
       console.error(`Failed to decompress file: ${error.message}`);
     }
-  };s
+  };
